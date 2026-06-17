@@ -2,19 +2,4 @@
 
 Developed this Project for learning smart automation and wireless robot control.
 
-## Screenshots
 
-### ESP Voice Robot Mobile Application
-![ESP Voice Robot Mobile Application](ESP%20Voice%20Robot%20mobile%20application.jpg)
-
-### ESP8266 NodeMCU Microcontroller
-![ESP8266 NodeMCU Microcontroller](ESP8266%20NodeMCU%20microcontroller.jpg)
-
-### IR Obstacle Detection Sensor
-![IR Obstacle Detection Sensor](IR%20obstacle%20detection%20sensor.jpg)
-
-### Obstacle Detected
-![Obstacle Detected](Obstacle%20Detected.jpeg)
-
-### Underside of the Robot
-![Underside of the Robot](Underside%20of%20the%20Robot.jpg)
