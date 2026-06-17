@@ -2,4 +2,5 @@
 
 Developed this Project for learning smart automation and wireless robot control.
 
-
+<h2>Favorites</h2>
+<img src="Screenshots_VT/Favorites.png" width="700">
