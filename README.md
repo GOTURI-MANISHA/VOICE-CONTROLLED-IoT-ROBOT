@@ -4,6 +4,7 @@ Developed this Project for learning smart automation and wireless robot control.
 
 ##Screenshots
 
+<p align="center">
 <h2>ESP8266_NodeMCU_microcontroller</h2>
 <img src="Screenshots/ESP8266_NodeMCU_microcontroller.jpg" width="300">
 
@@ -18,3 +19,5 @@ Developed this Project for learning smart automation and wireless robot control.
 
 <h2>ESP_Voice_Robot_mobile_application</h2>
 <img src="Screenshots/ESP_Voice_Robot_mobile_application.jpg" width="300">
+
+</p>
