@@ -5,16 +5,16 @@ Developed this Project for learning smart automation and wireless robot control.
 ##Screenshots
 
 <h2>ESP8266_NodeMCU_microcontroller</h2>
-<img src="Screenshots/ESP8266_NodeMCU_microcontroller.jpg" width="700">
+<img src="Screenshots/ESP8266_NodeMCU_microcontroller.jpg" width="300">
 
 <h2>Underside_of_the_Robot</h2>
-<img src="Screenshots/Underside_of_the_Robot.jpg" width="700">
+<img src="Screenshots/Underside_of_the_Robot.jpg" width="300">
 
 <h2>IR_obstacle_detection_sensor</h2>
-<img src="Screenshots/IR_obstacle_detection_sensor.jpg" width="700">
+<img src="Screenshots/IR_obstacle_detection_sensor.jpg" width="300">
 
 <h2>Obstacle_Detected</h2>
-<img src="Screenshots/Obstacle_Detected.jpg" width="700">
+<img src="Screenshots/Obstacle_Detected.jpg" width="300">
 
 <h2>ESP_Voice_Robot_mobile_application</h2>
-<img src="Screenshots/ESP_Voice_Robot_mobile_application.jpg" width="700">
+<img src="Screenshots/ESP_Voice_Robot_mobile_application.jpg" width="300">
