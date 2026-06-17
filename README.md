@@ -14,7 +14,7 @@ Developed this Project for learning smart automation and wireless robot control.
 <img src="Screenshots/IR_obstacle_detection_sensor.jpg" width="300">
 
 <h2>Obstacle_Detected</h2>
-<img src="Screenshots/Obstacle_Detected.jpg" width="300">
+<img src="Screenshots/Obstacle_Detected.jpeg" width="300">
 
 <h2>ESP_Voice_Robot_mobile_application</h2>
 <img src="Screenshots/ESP_Voice_Robot_mobile_application.jpg" width="300">
